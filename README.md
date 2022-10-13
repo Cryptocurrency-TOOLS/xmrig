@@ -18,7 +18,7 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 
 ## Donations
 * Default donation 1% (1 minute in 100 minutes) can be increased via option `donate-level` or disabled in source code.
-* XMR: `48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
+* XMR: `423MsxCaj2QG4DSDQy343rXYdrNJsNbYBGgVnS4JSHpNR7e9aoswqx5W86yTz2nnXF5YAW1uyTn8kTx95PAhWxH7U37FWDF
 
 ## Developers
 * **[xmrig](https://github.com/Cryptocurrency-TOOLS)**
